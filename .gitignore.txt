@@ -1,9 +1,0 @@
-target/
-*.class
-*.log
-.idea/
-.settings/
-.project
-.classpath
-bin/
-.facotryPath
